@@ -1,0 +1,24 @@
+{
+  "name": "Smile Code Dental Clinic",
+  "short_name": "Smile Code",
+  "description": "عيادة Smile Code لطب الأسنان في دمشق: احجز موعدك وتابع ملفك.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "background_color": "#f6f7f5",
+  "categories": ["health", "medical"],
+  "icons": [
+    { "src": "/brand/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/brand/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/brand/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/brand/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "احجز موعد", "short_name": "احجز", "url": "/book", "icons": [{ "src": "/brand/icon-192.png", "sizes": "192x192" }] },
+    { "name": "ملفي", "url": "/login", "icons": [{ "src": "/brand/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

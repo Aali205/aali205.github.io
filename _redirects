@@ -1,0 +1,2 @@
+# Netlify: send every app route (/book, /login?id=…, /portal, /clinic/…) to the single-page app.
+/*    /index.html   200
